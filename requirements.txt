@@ -1,0 +1,25 @@
+BENEDICT FLOWER CLASSIFICATION PROJECT - START HERE
+
+1. Open VS Code.
+2. Click File > Open Folder.
+3. Select this folder: Benedict_Flower_Classification_Project.
+4. Open Terminal > New Terminal.
+5. Run these commands:
+
+   python -m venv env
+   env\Scripts\activate
+   pip install -r requirements.txt
+   python main.py
+
+6. To open the app, run:
+
+   streamlit run app.py
+
+WHAT EACH MAIN FILE DOES
+
+app.py      - small web app where you enter flower measurements and get a prediction.
+main.py     - runs the whole machine learning project from start to finish.
+src/        - contains the smaller helper code files.
+data/       - contains the CSV dataset.
+outputs/    - stores charts and model results.
+docs/       - contains the report, code explanation, handbook, and presentation guide.

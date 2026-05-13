@@ -1,0 +1,7 @@
+{
+  "python.defaultInterpreterPath": "env/Scripts/python.exe",
+  "editor.wordWrap": "on",
+  "files.exclude": {
+    "**/__pycache__": true
+  }
+}

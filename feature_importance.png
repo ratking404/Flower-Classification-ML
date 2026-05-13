@@ -1,0 +1,12 @@
+# 8-10 Slide Presentation Outline
+
+1. Title slide - Benedict, project title, DAI022.
+2. Problem statement - classify a flower species from simple measurements.
+3. Dataset - Iris dataset, 150 flowers, 4 features, 3 species.
+4. Features and target - explain X and y.
+5. Model - Decision Tree classifier.
+6. Training and testing - 80% train, 20% test.
+7. Results - accuracy, confusion matrix, feature importance.
+8. Challenges and limitations - small dataset, only 3 species, measurements must be accurate.
+9. Ethics - avoid overclaiming; dataset is educational, not a real farming solution.
+10. Conclusion - model works well and can classify simple flower measurements.
